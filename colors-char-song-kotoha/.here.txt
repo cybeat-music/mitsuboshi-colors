@@ -1,0 +1,16 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "MITSUBOSHI★COLORS CHARACTER SONG SERIES 03 KOTOHA",
+  "author": "KOTOHA Starring NATSUMI HIOKA",
+  "disc": "0",
+  "music_name_index": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  }
+}

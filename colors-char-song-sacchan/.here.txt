@@ -1,0 +1,16 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "MITSUBOSHI★COLORS CHARACTER SONG SERIES 02 SACCHAN",
+  "author": "SACCHAN STARRING MARIKA KOUNO",
+  "disc": "0",
+  "music_name_index": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  }
+}

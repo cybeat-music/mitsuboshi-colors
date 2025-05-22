@@ -1,0 +1,16 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "TV Anime \"Mitsuboshi Colors\" Opening Theme - COLORS POWER NI OMAKASERO! ",
+  "author": "COLORS☆SLASH are Yui (CV. Yuuki Takada), Sacchan (CV. Marika Kohno), Kotoha (CV. Natsumi Hioka)",
+  "disc": "0",
+  "music_name_index": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  }
+}
